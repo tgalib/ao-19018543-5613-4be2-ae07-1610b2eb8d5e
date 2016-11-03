@@ -1,0 +1,7 @@
+Source-Organization: Tauranga City Library
+Organization-Address: 91 Willow St, Tauranga 3110, New Zealand
+Contact-Phone: +64.7.5777177
+Contact-Email: library@tauranga.govt.nz
+External-Description: Tauriko Sports Day
+External-Identifier: 19018543-5613-4be2-ae07-1610b2eb8d5e
+
